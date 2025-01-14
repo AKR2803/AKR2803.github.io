@@ -13,7 +13,7 @@ order: 4
 <!--![Code Coding GIF - Code Coding Programming - Discover Share GIFs](https://github.com/AKR-2803/AKR-2803/assets/109909231/c5dd19ee-5d3d-4e2a-9f54-75a50bb3f0a3) -->
 <div align="center">
   <kbd>
-    <img src="https://github.com/AKR-2803/AKR-2803/assets/109909231/c5dd19ee-5d3d-4e2a-9f54-75a50bb3f0a3" width="200" height = "150">
+    <img src="https://github.com/AKR-2803/AKR-2803/assets/109909231/c5dd19ee-5d3d-4e2a-9f54-75a50bb3f0a3" alt="coding_gif" width="200" height = "150">
   </kbd>
 </div>
 
