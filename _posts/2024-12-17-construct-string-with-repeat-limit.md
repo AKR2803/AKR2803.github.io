@@ -64,7 +64,7 @@ ___
 ### Reference Image
 | Logic behind the approach                                             | 
 |--------------------------------------------------------------------------------------| 
-| <img src="../images/12-17-2024-construct-string-with-repeat-limit-01.jpg" width=500 alt="construct-string-with-repeat-limit"/> |
+| <img src="../assets/img/leetcode/12-17-2024-construct-string-with-repeat-limit-01.jpg" width=500 alt="construct-string-with-repeat-limit"/> |
 
 
 ### [Full Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/ConstructStringWithRepeatLimit.java)

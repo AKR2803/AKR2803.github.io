@@ -27,7 +27,7 @@
 
 | Two pointer technique to reverse a list                               | 
 |--------------------------------------------------------------------------------------| 
-| <img src="../images/12-20-2024-reverse-odd-levels-binary-tree-01.jpg" width=500 alt="reverse-odd-levels-binary-tree"/> |
+| <img src="../assets/img/leetcode/12-20-2024-reverse-odd-levels-binary-tree-01.jpg" width=500 alt="reverse-odd-levels-binary-tree"/> |
     
 - Code for this part:
 
@@ -118,11 +118,11 @@ public void reverseValues(List<TreeNode> currentLevel){
 
 | Example Input                              |    Approach                              |
 |---------------------------| --------------------------- 
-| <img src="../images/12-20-2024-reverse-odd-levels-binary-tree-02.jpg" width=500 alt="reverse-odd-levels-binary-tree"/> | <img src="../images/12-20-2024-reverse-odd-levels-binary-tree-03.jpg" width=500 alt="reverse-odd-levels-binary-tree"/> | 
+| <img src="../assets/img/leetcode/12-20-2024-reverse-odd-levels-binary-tree-02.jpg" width=500 alt="reverse-odd-levels-binary-tree"/> | <img src="../assets/img/leetcode/12-20-2024-reverse-odd-levels-binary-tree-03.jpg" width=500 alt="reverse-odd-levels-binary-tree"/> | 
 
 | DFS Recursive Tree                                              | 
 |--------------------------------------------------------------------------------------| 
-| <img src="../images/12-20-2024-reverse-odd-levels-binary-tree-04.jpg" width=500 alt="max-chunks-to-make-sorted"/> |
+| <img src="../assets/img/leetcode/12-20-2024-reverse-odd-levels-binary-tree-04.jpg" width=500 alt="max-chunks-to-make-sorted"/> |
 
 
 - Stop the recursion when either of the `leftChild` or `rightChild` is `null`.
