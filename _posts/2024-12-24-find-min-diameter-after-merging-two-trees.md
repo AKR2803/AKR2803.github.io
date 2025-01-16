@@ -1,8 +1,8 @@
 ---
 title: 3203. Find Minimum Diameter after Merging Two Trees
 author: aaryaveer
-date: 2024-12-24 23:10:00 -0700
-categories: [DSA, Leetcode Daily]
+date: 2024-12-24 22:10:00 -0700
+categories: [DSA, Leetcode]
 tags: [Tree, Depth-First Search, Breadth-First Search, Graph]
 pin: true
 render_with_liquid: false
@@ -10,17 +10,19 @@ render_with_liquid: false
 
 ___
 
-## [[Problem](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/)][[Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/FindMinDiameterAfterMergingTwoTrees.java)]
+## [[Problem](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/)]
 
-<div style="text-align:left;display:inline;"> <img src="https://img.shields.io/badge/Hard-red?style=for-the-badge" alt="hard_tag"> </div>
+<!-- ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge)  -->
+<!-- ![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)   -->
+![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge)
 
-[**_`Tree`_**](https://leetcode.com/problem-list/tree/) [**_`Depth-First Search`_**](https://leetcode.com/problem-list/depth-first-search/) [**_`Breadth-First Search`_**](https://leetcode.com/problem-list/breadth-first-search/) [**_`Graph`_**](https://leetcode.com/problem-list/graph/)
+[**_`Tree`_**](https://akr2803.github.io/tags/tree/) [**_`Depth-First Search`_**](https://akr2803.github.io/tags/depth-first-search/) [**_`Breadth-First Search`_**](https://akr2803.github.io/tags/breadth-first-search/) [**_`Graph`_**](https://akr2803.github.io/tags/graph/)
+
+---
 
 > **Tip**: Solve [Leetcode 1245. Tree Diameter (Unlocked)](https://leetcode.ca/2019-04-28-1245-Tree-Diameter/) before attempting this question to gain a foundational understanding.
 {: .prompt-tip }
 
-
----
 
 ## Intuition
 

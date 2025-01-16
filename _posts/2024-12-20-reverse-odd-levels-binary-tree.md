@@ -1,13 +1,21 @@
-# POTD 12-20-2024
+---
+title: 2415. Reverse Odd Levels of Binary Tree
+author: aaryaveer
+date: 2024-12-20 14:17:00 -0700
+# put two categories, first main-category, second sub-category
+categories: [DSA, Leetcode]
+tags: [Tree, Depth-First Search, Breadth-First Search, Binary Tree]
+---
 
-## 2415. Reverse Odd Levels of Binary Tree [[Problem](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)][[Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/ReverseOddLevelsBinaryTree.java)]
+## [[Problem](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)]
 
  <!-- ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge)  -->
 ![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)  
 <!-- ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge) -->
 
-#### **Tags:** [`Tree`](https://leetcode.com/problem-list/tree/) [`Depth-First Search`](https://leetcode.com/problem-list/depth-first-search/) [`Breadth-First Search`](https://leetcode.com/problem-list/breadth-first-search/) [`Binary Tree`](https://leetcode.com/problem-list/binary-tree/)
+[**_`Tree`_**](https://akr2803.github.io/tags/tree/) [**_`Depth-First Search`_**](https://akr2803.github.io/tags/depth-first-search/) [**_`Breadth-First Search`_**](https://akr2803.github.io/tags/breadth-first-search/) [**_`Binary Tree`_**](https://akr2803.github.io/tags/binary-tree/)
 
+---
 
 ## Intuition
 

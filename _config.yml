@@ -16,7 +16,7 @@ timezone:
 
 title: Aaryaveer # the main title
 
-tagline: Blog website # it will display as the subtitle
+tagline: Tech and Thoughts # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   aaryaveer, blog, leetcode daily challenge 

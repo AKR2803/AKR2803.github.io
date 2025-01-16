@@ -3,21 +3,21 @@ title: 2762. Continuous Subarrays
 author: aaryaveer
 date: 2024-12-14 23:10:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode Daily]
+categories: [DSA, Leetcode]
 tags: [Array, Queue, Sliding Window, Heap, Priority Queue, Ordered Set, Monotonic Queue]
 ---
 
-___
 
-## [[Problem](https://leetcode.com/problems/continuous-subarrays/description/)][[Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/ContinuousSubarrays.java)]
+## [[Problem](https://leetcode.com/problems/continuous-subarrays/description/)]
 
-<!-- <div style="text-align:left;display:inline;"> <img src="https://img.shields.io/badge/Easy-green?style=for-the-badge" alt="easy_tag"> </div> -->
+<!-- ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge)  -->
+![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)  
+<!-- ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge) -->
 
-<div style="text-align:left;display:inline;"> <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge" alt="medium_tag"> </div>
 
-<!-- <div style="text-align:left;display:inline;"> <img src="https://img.shields.io/badge/Hard-red?style=for-the-badge" alt="hard_tag"> </div> -->
+[**_`Array`_**](https://akr2803.github.io/tags/array/) [**_`Queue`_**](https://akr2803.github.io/tags/queue/) [**_`Sliding Window`_**](https://akr2803.github.io/tags/sliding-window/) [**_`Heap(Priority Queue)`_**](https://akr2803.github.io/tags/heap/) [**_`Ordered Set`_**](https://akr2803.github.io/tags/ordered-set/) [**_`Monotonic Queue`_**](https://akr2803.github.io/tags/monotonic-queue/)
 
-[**_`Array`_**](https://leetcode.com/problem-list/array/) [**_`Queue`_**](https://leetcode.com/problem-list/queue/) [**_`Sliding Window`_**](https://leetcode.com/problem-list/sliding-window/) [**_`Heap(PriorityQueue)`_**](https://leetcode.com/problem-list/heap-priority-queue/) [**_`Ordered Set`_**](https://leetcode.com/problem-list/ordered-set/) [**_`Monotonic Queue`_**](https://leetcode.com/problem-list/monotonic-queue/)
+---
 
 ## Approach
 

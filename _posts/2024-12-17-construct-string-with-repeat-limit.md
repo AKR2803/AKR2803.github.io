@@ -1,13 +1,22 @@
-# POTD 12-17-2024
+---
+title: 2182. Construct String With Repeat Limit
+author: aaryaveer
+date: 2024-12-17 10:32:00 -0700
+# put two categories, first main-category, second sub-category
+categories: [DSA, Leetcode]
+tags: [Hash Table, String, Greedy, Heap, Priority Queue), Counting]
+---
 
 
-## 2182. Construct String With Repeat Limit [[Problem](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)][[Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/ConstructStringWithRepeatLimit.java)]
+## [[Problem](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)]
 
- <!-- ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge)  -->
+<!-- ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge)  -->
 ![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)  
 <!-- ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge) -->
 
-#### **Tags:** [`Hash Table`](https://leetcode.com/tag/hash-table/) [`String`](https://leetcode.com/tag/string/) [`Greedy`](https://leetcode.com/tag/greedy/) [`Heap(Priority Queue)`](https://leetcode.com/tag/heap-priority-queue/) [`Counting`](https://leetcode.com/tag/counting/)
+[**_`Hash Table`_**](https://akr2803.github.io/tags/hash-table/) [**_`String`_**](https://akr2803.github.io/tags/string/) [**_`Greedy`_**](https://akr2803.github.io/tags/greedy/) [**_`Heap(Priority Queue)`_**](https://akr2803.github.io/tags/heap/) [**_`Counting`_**](https://akr2803.github.io/tags/counting/)
+
+---
 
 ## Intuition
 - The problem requires constructing a string such that no character repeats more than a given `repeatLimit` consecutively. 
@@ -21,39 +30,43 @@
    - Append it up to the `repeatLimit` or its remaining count.
    - If the character still has more occurrences, check for an alternate character to break the repetition.
    - Reinsert both the current character (if occurrences remain) and the alternate character into the heap.
-   - [Refer Image](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/12-17-2024-construct-string-with-repeat-limit.md#reference-image) and the code below to understand main logic behind the approach.
-```java
-if(count > addLimit){
-    // no character to break the `repeatLimit`
-    // at this point we exhausted the current `max` character (say we had 5 z's and 
-    // `repeatLimit=3`, we can add 3 z's, but then need a different character to not 
-    // violate the repeatLimit, hence we add 1 alternate character(next highest in the order) 
-    // following which we can add the remaining 2 z's)
-    // hence we check if there is any other character in the heap that comes after `z`
-    // in lexicographical order(lesser ascii value)
-    // remember we `polled`=removed the max character(character with highest ascii 
-    // value) at this point, hence if there is no other character to break the 
-    // repitition, we are done, and cannot do better than this
-    if(maxHeap.isEmpty()){
-        break;
+   - [Refer Image](https://akr2803.github.io/posts/construct-string-with-repeat-limit/#reference-image) and the code below to understand main logic behind the approach.
+
+    ```java
+    if(count > addLimit){
+        // no character to break the `repeatLimit`
+        // at this point we exhausted the current `max` character (say we had 5 z's and 
+        // `repeatLimit=3`, we can add 3 z's, but then need a different character to not 
+        // violate the repeatLimit, hence we add 1 alternate character(next highest in the order) 
+        // following which we can add the remaining 2 z's)
+        // hence we check if there is any other character in the heap that comes after `z`
+        // in lexicographical order(lesser ascii value)
+        // remember we `polled`=removed the max character(character with highest ascii 
+        // value) at this point, hence if there is no other character to break the 
+        // repitition, we are done, and cannot do better than this
+        if(maxHeap.isEmpty()){
+            break;
+        }
+
+        // otherwise, we have an alternate, then take `1` of those characters
+        int[] next = maxHeap.poll();
+        result.append((char) next[0]);
+
+        // if after taking one of them we still have these characters left, 
+        // add them back to the heap
+        if(--next[1] > 0){
+            maxHeap.offer(next);
+        }
+
+        // finally, add the max character back into the heap, with updated count
+        maxHeap.offer(new int[] {ascii, count - addLimit});
     }
+    ```
 
-    // otherwise, we have an alternate, then take `1` of those characters
-    int[] next = maxHeap.poll();
-    result.append((char) next[0]);
-
-    // if after taking one of them we still have these characters left, 
-    // add them back to the heap
-    if(--next[1] > 0){
-        maxHeap.offer(next);
-    }
-
-    // finally, add the max character back into the heap, with updated count
-    maxHeap.offer(new int[] {ascii, count - addLimit});
-}
-```
 - Repeat until no valid characters are left, return the result.
+
 ___
+
 ### Complexity Analysis
 - **Time Complexity: _O(nlogk)_** 
     - `n` is the length of the string
@@ -62,12 +75,13 @@ ___
 - **Space Complexity: _O(k)_**
 
 ### Reference Image
+
 | Logic behind the approach                                             | 
 |--------------------------------------------------------------------------------------| 
 | <img src="../assets/img/leetcode/12-17-2024-construct-string-with-repeat-limit-01.jpg" width=500 alt="construct-string-with-repeat-limit"/> |
 
 
-### [Full Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/ConstructStringWithRepeatLimit.java)
+### [Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/ConstructStringWithRepeatLimit.java)
 
 ```java
 class Solution {

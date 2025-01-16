@@ -1,12 +1,21 @@
-# POTD 12-19-2024
+---
+title: 769. Max Chunks To Make Sorted
+author: aaryaveer
+date: 2024-12-19 13:20:00 -0700
+# put two categories, first main-category, second sub-category
+categories: [DSA, Leetcode]
+tags: [Array, Stack, Greedy, Sorting, Monotonic Stack]
+---
 
-## 769. Max Chunks To Make Sorted [[Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)][[Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/MaxChunksToMakeSorted.java)]
+## [[Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)]
 
  <!-- ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge)  -->
 ![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)  
 <!-- ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge) -->
 
-#### **Tags:** [`Array`](https://leetcode.com/problem-list/array/) [`Stack`](https://leetcode.com/problem-list/stack/) [`Greedy`](https://leetcode.com/problem-list/greedy/) [`Sorting`](https://leetcode.com/problem-list/sorting/) [`Monotonic Stack`](https://leetcode.com/problem-list/monotonic-stack/)
+[**_`Array`_**](https://akr2803.github.io/tags/array/) [**_`Stack`_**](https://akr2803.github.io/tags/stack/) [**_`Greedy`_**](https://akr2803.github.io/tags/greedy/) [**_`Sorting`_**](https://akr2803.github.io/tags/sorting/) [**_`Monotonic Stack`_**](https://akr2803.github.io/tags/monotonic-stack/)
+
+---
 
 ## Intuition  
 - The key observation is that a chunk can end at index `i` if the maximum value encountered so far (`maxSoFar`) is equal to `i`. 
@@ -48,7 +57,6 @@ class Solution {
                 cnt += 1;
             }
         }
-
         return cnt;
     }
 }

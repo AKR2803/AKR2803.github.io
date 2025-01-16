@@ -1,24 +1,27 @@
 ---
 title: 1792. Maximum Average Pass Ratio
 author: aaryaveer
-date: 2024-12-15 23:10:00 -0700
+date: 2024-12-15 10:14:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode Daily]
+categories: [DSA, Leetcode]
 tags: [Array, Greedy, Heap, Priority Queue]
 ---
 
 ___
 
-## [[Problem](https://leetcode.com/problems/maximum-average-pass-ratio/description/)][[Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/MaxAvgPassRatio.java)]
+## [[Problem](https://leetcode.com/problems/maximum-average-pass-ratio/description/)]
 
+<!-- ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge)  -->
+![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)  
+<!-- ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge) -->
 
 <!-- <div style="text-align:left;display:inline;"> <img src="https://img.shields.io/badge/Easy-green?style=for-the-badge" alt="easy_tag"> </div> -->
-
-<div style="text-align:left;display:inline;"> <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge" alt="medium_tag"> </div>
-
+<!-- <div style="text-align:left;display:inline;"> <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge" alt="medium_tag"> </div> -->
 <!-- <div style="text-align:left;display:inline;"> <img src="https://img.shields.io/badge/Hard-red?style=for-the-badge" alt="hard_tag"> </div> -->
 
-[**_`Array`_**](https://leetcode.com/problem-list/array/) [**_`Greedy`_**](https://leetcode.com/problem-list/greedy/) [**_`Heap (Priority Queue)`_**](https://leetcode.com/problem-list/heap-priority-queue/)
+[**_`Array`_**](https://akr2803.github.io/tags/array/) [**_`Greedy`_**](https://akr2803.github.io/tags/greedy/) [**_`Heap(Priority Queue)`_**](https://akr2803.github.io/tags/heap/)
+
+---
 
 ## Intuition
 

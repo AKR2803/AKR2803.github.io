@@ -1,15 +1,21 @@
-# POTD 12-21-2024
+---
+title: 2872. Maximum Number of K-Divisible Components
+author: aaryaveer
+date: 2024-12-21 15:48:00 -0700
+# put two categories, first main-category, second sub-category
+categories: [DSA, Leetcode]
+tags: [Tree, Depth-First Search]
+---
 
-## 2872. Maximum Number of K-Divisible Components [[Problem](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)][[Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/MaxNoOfKDivComponents.java)]
+## [[Problem](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)]
 
 <!-- ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge)  -->
 <!-- ![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)   -->
 ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge)
 
+[**_`Tree`_**](https://akr2803.github.io/tags/tree/) [**_`Depth-First Search`_**](https://akr2803.github.io/tags/depth-first-search/)
+
 ---
-
-#### **Tags:** [`Tree`](https://leetcode.com/problem-list/tree/) [`Depth-First Search`](https://leetcode.com/problem-list/depth-first-search/)
-
 
 ## Intuition
 - Given a tree structure with nodes having values. The goal is to maximize the number of valid components we can obtain by removing edges. 

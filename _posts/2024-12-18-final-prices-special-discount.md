@@ -1,14 +1,22 @@
-# POTD 12-18-2024
+---
+title: 1475. Final Prices With a Special Discount in a Shop
+author: aaryaveer
+date: 2024-12-18 11:44:00 -0700
+# put two categories, first main-category, second sub-category
+categories: [DSA, Leetcode]
+tags: [Array, Stack, Monotonic Stack]
+---
 
-## 1475. Final Prices With a Special Discount in a Shop [[Problem](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)][[Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/FinalPricesSpecialDiscount.java)]
+
+## [[Problem](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)]
 
 ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge) 
 <!-- ![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)   -->
 <!-- ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge) -->
 
----
+[**_`Array`_**](https://akr2803.github.io/tags/array/) [**_`Stack`_**](https://akr2803.github.io/tags/stack/) [**_`Monotonic Stack`_**](https://akr2803.github.io/tags/monotonic-stack/)
 
-#### **Tags:** [`Array`](https://leetcode.com/problem-list/array/) [`Stack`](https://leetcode.com/problem-list/stack/) [`Monotonic Stack`](https://leetcode.com/problem-list/monotonic-stack/)
+---
 
 ## Intuition
 - The problem requires calculating the final prices after applying a discount. 
@@ -41,7 +49,6 @@ class Solution {
                 }
             }
         }
-    
         return result;
     }
 }

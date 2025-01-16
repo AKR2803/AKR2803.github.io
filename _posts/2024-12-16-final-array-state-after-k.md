@@ -1,13 +1,21 @@
-# POTD 12-16-2024
+---
+title: 3264. Final Array State After K Multiplication Operations I
+author: aaryaveer
+date: 2024-12-16 11:44:00 -0700
+# put two categories, first main-category, second sub-category
+categories: [DSA, Leetcode]
+tags: [Array, Math, Heap, Priority Queue, Simulation]
+---
 
-
-## 3264. Final Array State After K Multiplication Operations I [[Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)][[Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/December/code/FinalArrayStateAfterK.java)]
+## [[Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)]
 
  ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge) 
 <!-- ![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)   -->
 <!-- ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge) -->
 
-#### **Tags:** [`Array`](https://leetcode.com/problem-list/array/) [`Math`](https://leetcode.com/problem-list/math/) [`Heap(PriorityQueue)`](https://leetcode.com/problem-list/heap-priority-queue/) [`Simulation`](https://leetcode.com/problem-list/simulation/)
+[**_`Array`_**](https://akr2803.github.io/tags/array/) [**_`Math`_**](https://akr2803.github.io/tags/math/) [**_`Heap(Priority Queue)`_**](https://akr2803.github.io/tags/heap/) [**_`Simulation`_**](https://akr2803.github.io/tags/simulation/)
+
+---
 
 ## Intuition
 
