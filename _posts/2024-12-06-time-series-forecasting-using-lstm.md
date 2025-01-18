@@ -3,7 +3,7 @@ title: Time Series Forecasting using LSTM📈
 author: aaryaveer
 date: 2024-12-06 13:22:00 -0700
 categories: [Machine Learning]
-tags: [Data Science, Artificial Intelligence, Machine Learning, Linear Regression, Statistics]
+tags: [Data Science, Artificial Intelligence, Machine Learning, LSTM, Time Series Forecasting]
 ---
 
 <img src="../assets/img/machine-learning/time-series-using-lstm-thumbnail.png" alt="lstm-thumbnail" width="500px" />
