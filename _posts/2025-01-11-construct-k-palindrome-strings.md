@@ -2,7 +2,7 @@
 title: 1400. Construct K Palindrome Strings
 author: aaryaveer
 date: 2025-01-11 11:19:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Hash Table, String, Greedy, Counting]
 ---
 

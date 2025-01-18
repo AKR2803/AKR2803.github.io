@@ -2,8 +2,8 @@
 title: 2657. Find the Prefix Common Array of Two Arrays
 author: aaryaveer
 date: 2025-01-14 17:19 -0700
-categories: [DSA, Leetcode]
-pin: true
+categories: [DSA, 1. Problems]
+# pin: true
 tags: [Hash Table, Array, Bit Manipulation]
 ---
 

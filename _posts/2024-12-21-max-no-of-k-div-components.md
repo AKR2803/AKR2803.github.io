@@ -3,7 +3,7 @@ title: 2872. Maximum Number of K-Divisible Components
 author: aaryaveer
 date: 2024-12-21 15:48:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Tree, Depth-First Search]
 ---
 

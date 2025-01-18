@@ -2,7 +2,7 @@
 title: 1639. Number of Ways to Form a Target String Given a Dictionary
 author: aaryaveer
 date: 2024-12-29 21:08:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, String, Dynamic Programming]
 ---
 

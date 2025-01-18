@@ -3,7 +3,7 @@ title: 2940. Find Building Where Alice and Bob Can Meet
 author: aaryaveer
 date: 2024-12-22 16:25:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Binary Search, Stack, Binary Indexed Tree, Segment Tree, Heap, Priority Queue, Monotonic Stack]
 ---
 

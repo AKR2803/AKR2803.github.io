@@ -2,7 +2,7 @@
 title: 3223. Minimum Length of String After Operations
 author: aaryaveer
 date: 2025-01-13 12:01 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Hash Table, String, Counting]
 ---
 

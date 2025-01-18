@@ -2,7 +2,7 @@
 title: 916. Word Subsets
 author: aaryaveer
 date: 2025-01-10 12:45:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, String, Hash Table]
 ---
 

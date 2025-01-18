@@ -2,7 +2,7 @@
 title: 1014. Best Sightseeing Pair
 author: aaryaveer
 date: 2024-12-27 10:48:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Dynamic Programming, Backtracking]
 ---
 

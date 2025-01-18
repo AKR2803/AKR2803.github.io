@@ -2,7 +2,7 @@
 title: 1769. Min. No. of Operations to Move All Balls to Each Box
 author: aaryaveer
 date: 2025-01-06 11:48:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, String, Prefix Sum]
 ---
 

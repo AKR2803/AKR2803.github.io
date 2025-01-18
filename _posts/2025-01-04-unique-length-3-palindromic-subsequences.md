@@ -2,7 +2,7 @@
 title: 1930. Unique Length-3 Palindromic Subsequences
 author: aaryaveer
 date: 2025-01-04 12:55:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Hash Table, String, Bit Manipulation, Prefix Sum]
 ---
 

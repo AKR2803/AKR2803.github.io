@@ -3,7 +3,7 @@ title: 3264. Final Array State After K Multiplication Operations I
 author: aaryaveer
 date: 2024-12-16 11:44:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Math, Heap, Priority Queue, Simulation]
 ---
 

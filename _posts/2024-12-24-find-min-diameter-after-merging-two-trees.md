@@ -2,7 +2,7 @@
 title: 3203. Find Minimum Diameter after Merging Two Trees
 author: aaryaveer
 date: 2024-12-24 22:10:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Tree, Depth-First Search, Breadth-First Search, Graph]
 pin: true
 render_with_liquid: false

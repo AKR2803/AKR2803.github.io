@@ -3,10 +3,9 @@ title: 2182. Construct String With Repeat Limit
 author: aaryaveer
 date: 2024-12-17 10:32:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode]
-tags: [Hash Table, String, Greedy, Heap, Priority Queue), Counting]
+categories: [DSA, 1. Problems]
+tags: [Hash Table, String, Greedy, Heap, Priority Queue, Counting]
 ---
-
 
 ## [[Problem](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)]
 

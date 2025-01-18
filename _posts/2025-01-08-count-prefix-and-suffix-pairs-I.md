@@ -2,7 +2,7 @@
 title: 3042. Count Prefix and Suffix Pairs I
 author: aaryaveer
 date: 2025-01-08 10:01:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, String, Trie, Rolling Hash, String Matching, Hash Function]
 ---
 

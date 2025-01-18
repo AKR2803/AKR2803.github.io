@@ -3,7 +3,7 @@ title: 1792. Maximum Average Pass Ratio
 author: aaryaveer
 date: 2024-12-15 10:14:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Greedy, Heap, Priority Queue]
 ---
 

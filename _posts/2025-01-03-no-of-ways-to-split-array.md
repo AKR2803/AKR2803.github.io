@@ -2,11 +2,11 @@
 title: 2270. Number of Ways to Split Array
 author: aaryaveer
 date: 2025-01-03 11:26:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Prefix Sum]
 ---
 
-## [[Problem](https://leetcode.com/problems/number-of-ways-to-split-array/description/)][[Code](https://github.com/AKR-2803/DSA-Declassified/blob/main/POTD-Leetcode/January/code/NoOfWaysToSplitArray.java)]
+## [[Problem](https://leetcode.com/problems/number-of-ways-to-split-array/description/)]
 
 <!-- ![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge)  -->
 ![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)  

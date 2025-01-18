@@ -3,7 +3,7 @@ title: 769. Max Chunks To Make Sorted
 author: aaryaveer
 date: 2024-12-19 13:20:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Stack, Greedy, Sorting, Monotonic Stack]
 ---
 

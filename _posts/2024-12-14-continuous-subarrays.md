@@ -3,7 +3,7 @@ title: 2762. Continuous Subarrays
 author: aaryaveer
 date: 2024-12-14 23:10:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Queue, Sliding Window, Heap, Priority Queue, Ordered Set, Monotonic Queue]
 ---
 

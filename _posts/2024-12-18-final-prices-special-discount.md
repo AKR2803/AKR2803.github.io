@@ -3,7 +3,7 @@ title: 1475. Final Prices With a Special Discount in a Shop
 author: aaryaveer
 date: 2024-12-18 11:44:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Stack, Monotonic Stack]
 ---
 

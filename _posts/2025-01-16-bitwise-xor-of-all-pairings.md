@@ -2,7 +2,7 @@
 title: 2425. Bitwise XOR of All Pairings
 author: aaryaveer
 date: 2025-01-16 08:11 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Bit Manipulation]
 ---
 

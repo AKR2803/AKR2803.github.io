@@ -2,7 +2,7 @@
 title: 2381. Shifting Letters II
 author: aaryaveer
 date: 2025-01-05 11:48:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, String, Prefix Sum]
 ---
 

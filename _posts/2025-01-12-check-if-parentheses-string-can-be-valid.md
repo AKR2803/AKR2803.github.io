@@ -2,7 +2,7 @@
 title: 2116. Check if a Parentheses String Can Be Valid
 author: aaryaveer
 date: 2025-01-12 14:14:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [String, Stack, Greedy]
 ---
 

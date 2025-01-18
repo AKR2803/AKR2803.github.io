@@ -2,7 +2,7 @@
 title: 2185. Counting Words With a Given Prefix
 author: aaryaveer
 date: 2025-01-09 09:32:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, String, String Matching]
 ---
 

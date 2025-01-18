@@ -2,7 +2,7 @@
 title: 2429. Minimize XOR
 author: aaryaveer
 date: 2025-01-15 14:59 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Greedy, Bit Manipulation]
 ---
 

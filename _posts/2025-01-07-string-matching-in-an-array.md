@@ -2,7 +2,7 @@
 title: 1408. String Matching in an Array
 author: aaryaveer
 date: 2025-01-07 09:42:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, String, String Matching]
 ---
 
@@ -28,19 +28,19 @@ tags: [Array, String, String Matching]
 
 ## Resources
 
-- Check [**MY TAKE ON KMP ALGORITHM**](https://github.com/AKR-2803/DSA-Declassified/blob/main/Notes/Strings/KMP.md)
-- Few resources to learn more about KMP Algorithm:
-    - [**KMP Algorithm by Abdul Bari**](https://www.youtube.com/watch?v=V5-7GzOfADQ)
-    - [**KMP Algorithm for Pattern Searching GeeksForGeeks**](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
-    - [**Leetcode Discuss**](https://leetcode.com/discuss/general-discussion/1003074/the-knuth-morris-pratt-algorithm-in-my-own-words)
+> Before attempting this problem, consider reviewing [**MY TAKE ON THE KMP ALGORITHM**](https://akr2803.github.io/posts/kmp/) for a clear explanation of the KMP algorithm approach.
+{: .prompt-tip}
+
+- Additional resources to learn about the KMP Algorithm:
+    - [KMP Algorithm by Abdul Bari](https://www.youtube.com/watch?v=V5-7GzOfADQ)
+    - [KMP Algorithm for Pattern Searching GeeksForGeeks](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+    - [Leetcode Discuss](https://leetcode.com/discuss/general-discussion/1003074/the-knuth-morris-pratt-algorithm-in-my-own-words)
 
 - Few questions to practice KMP algorithm are:
-- [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) 
-![Easy](https://img.shields.io/badge/Easy-green?style=for-the-badge) 
+    - [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+    - [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/)
+    - [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)
 
-- [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) ![Medium](https://img.shields.io/badge/Medium-yellow?style=for-the-badge) 
-
-- [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge)
 
 ## Approach 1: Brute Force
 - Compare each string with all other strings in the array.
@@ -54,6 +54,8 @@ tags: [Array, String, String Matching]
 
 - **Space Complexity: _O(k)_**
   - `k`: Space used to store the result list.
+
+---
 
 ## Approach 2: KMP Algorithm
 - For each string, check if it is a substring of another string using the precomputed LPS (Longest Prefix Suffix) array.
@@ -129,7 +131,6 @@ class Solution {
                 }
             }
         }
-
         return false;
     }
 
@@ -172,7 +173,6 @@ class Solution {
                 }
             }
         }
-
         return res;
     }
 }

@@ -3,7 +3,7 @@ title: 2471. Min. No. of Operations to Sort a Binary Tree by Level
 author: aaryaveer
 date: 2024-12-23 11:09:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Tree, Breadth-First Search, Binary Tree]
 ---
 

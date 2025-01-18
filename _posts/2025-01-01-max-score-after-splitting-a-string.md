@@ -2,7 +2,7 @@
 title: 1422. Maximum Score After Splitting a String
 author: aaryaveer
 date: 2025-01-01 10:11:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, String, Dynamic Programming]
 ---
 

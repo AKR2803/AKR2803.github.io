@@ -2,7 +2,7 @@
 title: 494. Target Sum
 author: aaryaveer
 date: 2024-12-26 11:15:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Dynamic Programming, Backtracking]
 ---
 

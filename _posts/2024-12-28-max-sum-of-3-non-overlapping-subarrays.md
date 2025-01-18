@@ -2,7 +2,7 @@
 title: 689. Maximum Sum of 3 Non-Overlapping Subarrays 
 author: aaryaveer
 date: 2024-12-28 16:22:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Array, Dynamic Programming]
 ---
 

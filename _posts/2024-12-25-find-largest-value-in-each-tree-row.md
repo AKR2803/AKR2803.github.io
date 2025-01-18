@@ -2,7 +2,7 @@
 title: 515. Find Largest Value in Each Tree Row
 author: aaryaveer
 date: 2024-12-25 12:15:00 -0700
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Tree, Depth-First Search, Breadth-First Search, Binary Tree]
 ---
 

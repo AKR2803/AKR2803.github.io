@@ -3,7 +3,7 @@ title: 2415. Reverse Odd Levels of Binary Tree
 author: aaryaveer
 date: 2024-12-20 14:17:00 -0700
 # put two categories, first main-category, second sub-category
-categories: [DSA, Leetcode]
+categories: [DSA, 1. Problems]
 tags: [Tree, Depth-First Search, Breadth-First Search, Binary Tree]
 ---
 
