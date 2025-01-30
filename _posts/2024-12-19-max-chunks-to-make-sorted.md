@@ -38,6 +38,7 @@ tags: [Array, Stack, Greedy, Sorting, Monotonic Stack]
 - **Space Complexity: _O(1)_**
 
 ### Reference Image
+
 | Logic behind the approach                                             | 
 |--------------------------------------------------------------------------------------| 
 | <img src="../assets/img/leetcode/12-19-2024-max-chunks-to-make-sorted.jpg" width=500 alt="max-chunks-to-make-sorted"/> |

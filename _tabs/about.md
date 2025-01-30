@@ -46,18 +46,20 @@ With over **1 year** of work experience in software development, I am <span >act
 - Frontend Developer  
 - Mobile Developer  
 
-<a href="https://drive.google.com/file/d/13ITnizoWrsf-1g9bSYZ-4PBQH7_5Hh1K/view?usp=sharing" target="_blank" >**Find My Resume here**</a> **OR** below is the `.jpg` version for a <span >&nbsp;**quick view**&nbsp;</span>
+## <a href="https://drive.google.com/file/d/1fckjGxrVbvu8qzcThFJa-KJDvTdsPsHE/view?usp=sharing" target="_blank" >**Find My Resume here**</a> 
+
+<!-- **OR** below is the `.jpg` version for a <span >&nbsp;**quick view**&nbsp;</span> -->
 
 <!-- ![Resume SVG](../assets/img/resume/Resume_AaryaveerRajput.svg) -->
 
-<img src="../assets/img/resume/Resume-AaryaveerRajput.jpg" width=500 alt="resume-svg"/>
+<!-- <img src="../assets/img/resume/Resume-AaryaveerRajput.jpg" width=500 alt="resume-svg"/> -->
 
 
 
 <!-- ![Resume]() -->
 
 
-
+---
 
 ## Connect with me
 &nbsp;&nbsp;&nbsp; 
